@@ -109,7 +109,7 @@ if st.button("Send 🚀", use_container_width=True):
 
     else:
 
-        with st.spinner("Gemini is thinking..."):
+        with st.spinner("shaik is thinking..."):
 
             try:
 
